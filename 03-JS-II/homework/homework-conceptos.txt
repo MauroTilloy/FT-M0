@@ -1,0 +1,4 @@
+for: se utiliza para repetir una operación una cierta cantidad de veces.
+&&: para que una accion se ejecute requiere que se cumplan dos o mas condiciones a la vez.
+||: para que una accion se ejecute tiene que darse una u otra de las condiciones que se mencionan. 
+!: se utiliza para negar algo. Podriamos leerlo como un "no" antepuesto a una expresion. 
